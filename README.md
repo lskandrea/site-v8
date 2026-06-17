@@ -1,9 +1,8 @@
-# MJSC Manosque - Site V9
+# MJSC Judo Manosque — V10 images OK
 
-Site statique multi-pages prêt pour Cloudflare Pages.
+Version multi-pages avec logo MJSC et images locales incluses dans `assets/`.
 
-## Pages
-Accueil, Judo, Jiu-Jitsu Brésilien, Taïso, Planning, Actualités, Galerie, Inscriptions, Contact, RGPD, Mentions légales et Politique de confidentialité.
+## Important
+Quand tu upload sur GitHub ou Cloudflare, il faut envoyer **tout le dossier**, y compris `assets/`.
 
-## À modifier plus tard
-Les horaires réels, tarifs, photos officielles, email/téléphone si besoin.
+Pages incluses : accueil, judo, BJJ, taïso, planning, actualités, galerie, inscription, contact, mentions légales, confidentialité, RGPD.
